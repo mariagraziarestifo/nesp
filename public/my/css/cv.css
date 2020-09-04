@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(250, 248, 248);
+}
+
+
+h2 {
+    color: brown;
+}
+
+img:hover {
+    width: 200px;
+    border: 2px solid brown;
+    border-collapse: collapse;
+    width: 40%;
+}
+
+table {
+    border: 2px solid black;
+    border-collapse: collapse;
+    width: 50%;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 5px;
+    text-align: center;
+}
+
+th {
+    background-color: rgb(148, 202, 233);
+}
+
+td {
+    background-color: rgb(35, 171, 250);
+}
